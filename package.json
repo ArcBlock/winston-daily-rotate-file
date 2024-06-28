@@ -49,7 +49,7 @@
     "threads": "^1.7.0"
   },
   "dependencies": {
-    "@abtnode/file-stream-rotator": "^0.6.2",
+    "@abtnode/file-stream-rotator": "^0.6.3",
     "object-hash": "^3.0.0",
     "triple-beam": "^1.4.1",
     "winston-transport": "^4.7.0"
